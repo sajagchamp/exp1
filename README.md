@@ -25,6 +25,7 @@ CODE-1
 Values are taken from the user and then the operations are performed.
 
 ALGORITHM
+=
 
 1.Start
 
@@ -42,6 +43,7 @@ CODE-2:
 First value of r is taken from the user and then math library is imported which automatically calculates the value of pi in the formula of area of circle and then prints the value.
 
 ALGORITHM:
+-
 
 1.Start
 
@@ -63,6 +65,7 @@ CODE-3:
 First math library is imported which calculates the value of log100 base 10 value.
 
 ALGORITHM:
+-
 
 1.Start
 
