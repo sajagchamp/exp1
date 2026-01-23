@@ -22,7 +22,7 @@ THEORY:
 CODE-1
 =
 
-Values are taken from the user and then the operations are performed.
+Values are taken from the user and then the operations(Addition,substraction,multiplication,etc) are performed.
 
 ALGORITHM
 =
@@ -31,7 +31,7 @@ ALGORITHM
 
 2.Taking the values of x and y from the user
 
-3.Performing different operations and printing the results.
+3.Performing different operations(addition,substraction,multiplication and printing the results.
 
 4.End
 
